@@ -50,7 +50,6 @@ text-align: center;
 </div>
 """
 
-# <p>Developed by <a style='display: block; text-align: center;' href="https://www.heflin.dev/" target="_blank">Heflin Stephen Raj S</a></p>
 st.markdown(footer, unsafe_allow_html=True) 
 
 def hex_to_color_name(hex_code):
